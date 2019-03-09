@@ -1,6 +1,5 @@
-# quiz_part3.py
-# Raunak Anand  
-# ECS32A Fall 2018
+# quiz.py
+# Raunak Anand
 #
 # This code responds to your answer to a trivia question depending on whether your answer is right or wrong
 
